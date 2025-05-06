@@ -4,7 +4,7 @@
 
 
 
-# 💻 Нео | Software Developer
+# 💻 Software Developer
 
 Java & Android Developer 🚀  
 Focused on building, learning, and dominating.
