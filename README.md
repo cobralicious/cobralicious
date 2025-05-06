@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;I+am+Neo,+Java+Developer.;Discipline+Code+Conquer.&center=true&width=500&height=50&pause=1000&color=F7B801&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Wake+up%2C+Neo...;The+Matrix+has+you.;Follow+the+white+rabbit...;Knock+knock%2C+Neo." />
 </p>
 
 
