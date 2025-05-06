@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;I+am+Neo,+Java+Developer.;Discipline+Code+Conquer.&center=true&width=500&height=50&pause=1000&color=F7B801&vCenter=true&size=22" />
 </p>
 
-<h1 align="center">Welcome to my GitHub 👋</h1>
 
 
 # 💻 Нео | Software Developer
