@@ -30,6 +30,8 @@ Focused on building, learning, and dominating.
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![API](https://img.shields.io/badge/API-0052CC.svg?style=for-the-badge&logo=apollographql&logoColor=white)
+![Applied Software](https://img.shields.io/badge/Applied_Software-4AB3F4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ---
 
