@@ -43,7 +43,6 @@ Focused on building, learning, and dominating.
 ### 📫 Contact Me
 
 - Telegram: [@cobralicious](https://t.me/cobralicious)  
-- Email: daniilkulbachnyi@therealworld.ag
 
 ---
 
