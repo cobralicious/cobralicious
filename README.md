@@ -26,8 +26,8 @@ Focused on building, learning, and dominating.
 ### 🔧 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![API](https://img.shields.io/badge/API-%23007ACC.svg?style=for-the-badge&logo=swagger&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![API](https://img.shields.io/badge/API-%23007ACC.svg?style=for-the-badge&logo=swagger&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
