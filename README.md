@@ -25,13 +25,13 @@ Focused on building, learning, and dominating.
 
 ### 🔧 Tech Stack
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Applied Software](https://img.shields.io/badge/Applied_Software-4AB3F4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![API](https://img.shields.io/badge/API-0052CC.svg?style=for-the-badge&logo=apollographql&logoColor=white)
-![Applied Software](https://img.shields.io/badge/Applied_Software-4AB3F4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ---
 
