@@ -28,7 +28,13 @@ Hi, I'm **cobralicious** – an Android developer who builds smooth mobile exper
     <img alt="Telegram" src="https://img.shields.io/badge/-Chat%20on%20Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
-
+<p align="center">
+  <b><a href="https://t.me/StackOverfunChat" target="_blank">StackOverfun</a></b> is the best chat for programmers!
+  <br>
+  <a href="https://t.me/StackOverfunChat">
+    <img alt="Telegram Chat" src="https://img.shields.io/badge/-StackOverFun-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
 ---
 
 ### 💎 Support Me
@@ -62,14 +68,4 @@ Hi, I'm **cobralicious** – an Android developer who builds smooth mobile exper
 <b>Ethereum</b>  
 `0x8C53c8Bc164135Fe90319b12Eb49CbeF613b56AA`
 
-</p>
-
----
-
-<p align="center">
-  🚀 <b><a href="https://t.me/StackOverfunChat" target="_blank">StackOverfun</a></b> is the best chat for programmers!
-  <br>
-  <a href="https://t.me/StackOverfunChat">
-    <img alt="Telegram Chat" src="https://img.shields.io/badge/-StackOverFun-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
 </p>
