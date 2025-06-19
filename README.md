@@ -1,4 +1,6 @@
-<h1 align="center">👨‍💻 cobralicious</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Wake+up%2C+Neo...;The+Matrix+has+you.;Follow+the+white+rabbit...;Knock+knock%2C+Neo." />
+</p>
 <p align="center">
   <b>Android Developer</b> • <b>Linux Enthusiast</b> • <b>Bot Architect</b>
 </p>
@@ -6,18 +8,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,python,linux,git&perline=6" alt="Tech Stack" />
 </p>
-
----
-
-### 🧩 About Me
-
-Hi, I'm **cobralicious** – an Android developer who builds smooth mobile experiences in **Kotlin** and **Java**, crafts Telegram bots with **Kurigram** (a Pyrogram fork), and works best inside a **Linux terminal**.
-
-- 📱 Mobile apps with Jetpack Compose  
-- 🤖 Python bots that get the job done  
-- 💡 Clean architecture, REST APIs, scalable code  
-- ☕ Coffee-powered commits and calm debugging  
-- 🐧 Living the Linux life  
 
 ---
 
