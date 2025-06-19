@@ -35,7 +35,7 @@
   <code>UQAyxO-8y0PW6UiavFfYDhfamxALRD9zTgrN5PhIgMMpYqG6</code><br /><br />
   <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1.png" width="20" /> <strong>BTC:</strong><br />
   <code>bc1qsk4e8gsa3kf8juseqe4aa9reec3pyre7d5fars</code><br /><br />
-  <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/825.png" width="20" /> <strong>USDT (ERC-20):</strong><br />
+  <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/825.png" width="20" /> <strong>USDT:</strong><br />
   <code>0x8C53c8Bc164135Fe90319b12Eb49CbeF613b56AA</code><br /><br />
   <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" width="20" /> <strong>Ethereum:</strong><br />
   <code>0x8C53c8Bc164135Fe90319b12Eb49CbeF613b56AA</code>
