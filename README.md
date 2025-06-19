@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Wake+up,+Neo...;The+Matrix+has+you.;Follow+the+white+rabbit...;Knock+knock,+Neo." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=CCCCCC&center=true&vCenter=true&width=600&lines=Wake+up,+Neo...;The+Matrix+has+you.;Follow+the+white+rabbit...;Knock+knock,+Neo." />
 </p>
 
 <h3 align="center">
