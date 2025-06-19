@@ -41,22 +41,34 @@ Hi, I'm **cobralicious** – an Android developer who builds smooth mobile exper
 
 ### 💎 Support Me
 
-<table align="center">
+<table align="center" cellpadding="8" cellspacing="0">
   <tbody>
     <tr>
-      <td>🔷 <b>TON</b></td>
+      <td width="40" align="center">
+        <img src="https://cryptologos.cc/logos/ton-token-ton-logo.png?v=025" alt="TON" width="28" height="28" />
+      </td>
+      <td><b>TON</b></td>
       <td><code>UQAyxO-8y0PW6UiavFfYDhfamxALRD9zTgrN5PhIgMMpYqG6</code></td>
     </tr>
     <tr>
-      <td>🟠 <b>BTC</b></td>
+      <td width="40" align="center">
+        <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=025" alt="BTC" width="28" height="28" />
+      </td>
+      <td><b>BTC</b></td>
       <td><code>bc1qsk4e8gsa3kf8juseqe4aa9reec3pyre7d5fars</code></td>
     </tr>
     <tr>
-      <td>🟢 <b>USDT (ERC-20)</b></td>
+      <td width="40" align="center">
+        <img src="https://cryptologos.cc/logos/tether-usdt-logo.png?v=025" alt="USDT" width="28" height="28" />
+      </td>
+      <td><b>USDT (ERC-20)</b></td>
       <td><code>0x8C53c8Bc164135Fe90319b12Eb49CbeF613b56AA</code></td>
     </tr>
     <tr>
-      <td>🔵 <b>Ethereum</b></td>
+      <td width="40" align="center">
+        <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=025" alt="ETH" width="28" height="28" />
+      </td>
+      <td><b>Ethereum</b></td>
       <td><code>0x8C53c8Bc164135Fe90319b12Eb49CbeF613b56AA</code></td>
     </tr>
   </tbody>
