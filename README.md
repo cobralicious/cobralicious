@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Wake+up,+Neo...;The+Matrix+has+you.;Follow+the+white+rabbit...;Knock+knock,+Neo." />
 </p>
 
-<hr>
-
 <h3 align="center">
   🧠 Android Developer • 🐧 Linux Enthusiast • 🤖 Bot Architect
 </h3>
@@ -18,17 +16,15 @@
 
 <p align="center">
   <a href="https://t.me/cobralicious" target="_blank">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img alt="Telegram Me" src="https://img.shields.io/badge/@cobralicious-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://t.me/StackOverfunChat" target="_blank">
+    <img alt="StackOverfun Chat" src="https://img.shields.io/badge/Join-StackOverfun_Chat-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
 
-<p align="center">
-  <strong><a href="https://t.me/StackOverfunChat" target="_blank">StackOverfun</a></strong> — лучший чат для программистов!
-  <br />
-  <a href="https://t.me/StackOverfunChat" target="_blank">
-    <img alt="Join Chat" src="https://img.shields.io/badge/Join-StackOverfun-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-</p>
+<p align="center"><i>StackOverfun — топовый Telegram-чат для программистов.</i></p>
 
 <hr>
 
