@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Wake+up%2C+Neo...;The+Matrix+has+you.;Follow+the+white+rabbit...;Knock+knock%2C+Neo." />
 </p>
 
-
-
 # 💻 Software Developer
 
 Java & Android Developer 🚀  
@@ -32,7 +30,7 @@ Focused on building, learning, and dominating.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Applied Software](https://img.shields.io/badge/Applied_Software-4AB3F4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
+https://github.com/cobralicious/cobralicious/blob/main/README.md
 ---
 
 ### ⚡ My Motto
@@ -44,7 +42,20 @@ Focused on building, learning, and dominating.
 
 ### 📫 Contact Me
 
-- Telegram: [@cobralicious](https://t.me/cobralicious)  
+<p align="center">
+  <a href="https://t.me/cobralicious">
+    <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-1a1b27?style=for-the-badge&logo=telegram">
+  </a>
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=NeoDevX&label=Profile%20Visits&style=for-the-badge" />
+</p>
+
+---
+
+### 📊 Quick stats about me
+
+| Github Stats | Top Languages |
+| --- | --- |
+| ![NeoDevX's github stats](https://github-readme-stats.vercel.app/api?username=NeoDevX&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![NeoDevX's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NeoDevX&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
 ---
 
