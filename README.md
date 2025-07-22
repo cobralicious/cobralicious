@@ -3,11 +3,11 @@
 </p>
 
 <h3 align="center">
-  🧠 Python Developer • 🐧 Linux Enthusiast • 🤖 Bot Architect
+  🧠 Python Developer • 🐧 Linux Enthusiast • 🤖 Bot Architect • 📊 ML Practitioner
 </h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,python,linux,git&perline=6" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,linux,git,fastapi,tensorflow,pytorch&perline=6" alt="Tech Stack" />
 </p>
 
 <hr>
