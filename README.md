@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-  🧠 Python Developer • 🐧 Linux Enthusiast • 🤖 Bot Architect • 📊 ML Practitioner
+  🧠 Python Developer • 🤖 Bot Architect • 📊 ML Practitioner
 </h3>
 
 <p align="center">
