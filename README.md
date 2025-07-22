@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-  🧠 Android Developer • 🐧 Linux Enthusiast • 🤖 Bot Architect
+  🧠 Python Developer • 🐧 Linux Enthusiast • 🤖 Bot Architect
 </h3>
 
 <p align="center">
