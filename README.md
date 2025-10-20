@@ -3,11 +3,40 @@
 </p>
 
 <h3 align="center">
-  🧠 Python Developer • 🤖 Bot Architect • 📊 ML Practitioner
+  ☕ Java Backend Developer • 🛠 Spring Boot Expert • 🤖 ML/AI Architect
 </h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,git,fastapi,tensorflow,pytorch&perline=6" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,spring,boot,postgres,maven,gradle,linux,git,python,tensorflow,pytorch&perline=11" alt="Tech Stack" />
+</p>
+
+---
+
+<h3 align="center">💡 Опыт и Стек</h3>
+
+<p align="center">
+    Перешел с Python-бэкенда (FastAPI) на мощь **Java** и **Spring Boot** для создания высоконагруженных и масштабируемых корпоративных решений. Глубокое понимание **RESTful API** и архитектуры микросервисов.
+</p>
+
+<h4 align="center">Ключевые Технологии:</h4>
+<p align="center">
+    <img src="https://img.shields.io/badge/Java%208+-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+    <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+    <img src="https://img.shields.io/badge/RESTful%20API-darkgreen?style=for-the-badge&logo=rest&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
+</p>
+
+<h4 align="center">Специализация ML/AI (Прошлое и Интеграция):</h4>
+<p align="center">
+    Сохраняю компетенции в **Машинном обучении** и **Ботостроении**, используя Java для интеграции высокопроизводительных Python/ML-сервисов (TensorFlow, PyTorch, FastAPI) в корпоративный бэкенд.
+</p>
+<p align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
 <hr>
