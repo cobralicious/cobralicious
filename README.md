@@ -22,6 +22,7 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Java%208+-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+    <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
     <img src="https://img.shields.io/badge/RESTful%20API-darkgreen?style=for-the-badge&logo=rest&logoColor=white" />
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
@@ -55,14 +56,3 @@
 <p align="center"><i>StackOverfun — top Telegram chat for programmers.</i></p>
 
 ---
-
-<h3 align="center">💎 Support My Work</h3>
-
-<p align="center" style="font-size:16px; line-height: 2;">
-  <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1.png" width="20" /> <strong>BTC(Bsc):</strong><br />
-  <code>0x1a78f01e4baa84b396f9028e26c24cc89aa1b2e8</code><br /><br />
-  <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/825.png" width="20" /> <strong>USDT(TRX Tron (TRC20)):</strong><br />
-  <code>TKvo7VjiqEwnzjiVpQsXfJH7woTdYuRX4o</code><br /><br />
-  <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" width="20" /> <strong>Ethereum(Base):</strong><br />
-  <code>0x1a78f01e4baa84b396f9028e26c24cc89aa1b2e8</code>
-</p>
